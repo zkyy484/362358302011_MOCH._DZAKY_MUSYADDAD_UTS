@@ -37,13 +37,12 @@
    - Keterangan : Saya juga menggunakan beberapa library yang terdapatt di internet. Diantaranya yakni cool_alert dan font_awewome_flutter. Untuk cool_alert sendiri saya gunakan sebagai template dari dialog alert, yang saya terapkan pada halaman daftar. Kemudian untuk font_aweswome_flutter saya gunakan untuk mengambil beberapa dokumentasi icon pada library tersebut yang terapkan pada halaman daftar dan masuk di bagian icon alternatifnya. Diantaranya yaitu icon facebook, icon google, icon twitter, dan icon apple.
 
 
+6. Images
 
-      
+   <img width="104" alt="image" src="https://github.com/user-attachments/assets/accc8b5b-d26b-442c-a8b3-ec1d4ad4f68c">
+   <img width="107" alt="image" src="https://github.com/user-attachments/assets/e5339b0d-6c10-4f01-8922-c67e2ddbabed">
 
-
-
-   
-  
+   - Keterangan : Saya membuat sebuah file assets di dalamnya terdapat beberapa foto diantaranya foto yang saya gunakan sebagai foto avatar dan foro yang saya gunakan sebagai background.
 
 
 **B. TAMPILAN**
