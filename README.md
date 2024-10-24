@@ -54,12 +54,6 @@
 
 - Keterangan : Tampilan Alert dialog ini akan otomatis setelah memencet tombol keluar. Terdapat 2 opsi diantaranya  batal dan ya. Saat menekan tombol batal akan otomatis kembali ke halaman profil dan jika menekan tombol ya maka akan melakukan proses destroy, dan otomatis akan keluar dari aplikasi.
 
-8. **Tampilan Akhir**
-
-   ![WhatsApp Image 2024-10-24 at 22 45 57_ac77c175](https://github.com/user-attachments/assets/c56e688e-682a-4305-bd6a-f307970cd8cb)
-
-  - Keterangan : Tampilan setelah keluar dari aplikasi.
-
 
 
    
