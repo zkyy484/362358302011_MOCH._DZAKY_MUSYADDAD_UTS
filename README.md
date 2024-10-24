@@ -14,8 +14,10 @@
 
 - Keterangan : Tampilan awal sebelum memasuki halaman masuk dan daftar. Dimana pada halaman ini tersedia 2 button, yakni masuk(nantinya akan menuju ke halaman masuk dan daftar(nantinya akan menuju ke halaman daftar). Diantara keduanya menggunakan perintah Navigator Push.
 
-2. **Tampilan Login**
+2. **Tampilan Sig In(Daftar)**
+   
    ![WhatsApp Image 2024-10-24 at 22 44 59_cc0578ee](https://github.com/user-attachments/assets/92cdf583-b01d-43a3-a4b9-7f30dd796577)
+   
    ![WhatsApp Image 2024-10-24 at 22 45 05_0a8fec09](https://github.com/user-attachments/assets/385e8345-77cd-414d-ba81-3ddbc784bba1)
 
 - Keterangan : Pada tampilan login ini terdapat beberapa koomponen yakni judul, field kolom, button, dan teks inkwell untuk menuju ke halaman masuk, serta saya menambahkan beberpa atribut seperti checklist, icon platform alternatif, dan inkwell lupa password.
@@ -27,7 +29,7 @@
 
 - Keterangan : Tampilan alert dialog ini akan muncul setelah menekan tombol daftar. Alert ini sebagai notifikasi bahwasannya proses daftar berhasil dilakukakan. Setelah memencet tombol oke akan otomatis diarahkan ke halman masuk.
 
-4. **Tampilan Masuk**
+4. **Tampilan Login(Masuk)**
 
    ![WhatsApp Image 2024-10-24 at 22 45 21_a5ace7d4](https://github.com/user-attachments/assets/f39a33dd-8195-44ca-a852-8f12d3b4f13c)
 
