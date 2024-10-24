@@ -4,6 +4,37 @@
 
 
 **A. KOMPONEN**
+1. Button
+
+   <img width="574" alt="image" src="https://github.com/user-attachments/assets/37786ec1-9eab-4ff2-a8fd-7fc6601c6eb1">
+
+   - Keterangan : class ini saya gunakan untuk mempermudah saya dalam membuat button(tombol). Sehingga nanti disaat saya membutuhkan tombol di suatu halaman saya cukup memanggil class ini dan merubah komponen-komponen dalamnya sesuai dengan kebutuhan.
+
+2. Scaffold
+
+   <img width="556" alt="image" src="https://github.com/user-attachments/assets/5f01316f-b54f-4f4b-8f64-98ad66449417">
+
+   - Keterangan : class scaffold ini saya gunakan sebagain template background. Sehingga nanti saya depat memanggil class ini saat saya ingin menggunakannya. Dengan adanya ini pekerjaan kita akan sedikit berkurang karena tidak mengulang saat membuat scaffold di beberapa halaman yang ingin dibuat.
+
+3. Warna
+
+     <img width="311" alt="image" src="https://github.com/user-attachments/assets/d0b6d385-c1be-4f44-afaa-cee723591ec9">
+
+   - Keterangan : class warna ini saya gunakan sebagai template warna. Dimana terdapat beberapa warna yang saya butuhkkan. Agar nantinya saya dapat lebih mudah dalam menentukan warna. Karena sebelumnya sudah saya identifikasikan menjadi beberapa class tertentu. Sehingga disaat saya ingin menggunakan salah satu dari warna tersebut saya cukup memanggil variable warnanya saja.
+
+
+4. Item
+
+   <img width="644" alt="image" src="https://github.com/user-attachments/assets/9289d8d7-06e1-4d19-8b0e-e1059063ef35">
+
+   - Keterangan : Pada file ini saya membuat class atribut untuk menyimpan data static pada username dan email agar nanti dapat digunakan oleh semua halaman dengan data yang sama. Saya juga membuat class itemprofil yang berisikan subtittle, tittle dan icon. Fungsinya untuk mempermudah saya dalam melakukan modifikasi pada tampilan profil. Sehingga hanya mengganti beberapa nilai pada setiap komponennya sesuai dengan kebutuhan. 
+
+
+      
+
+
+
+   
   
 
 
