@@ -27,7 +27,15 @@
 
    <img width="644" alt="image" src="https://github.com/user-attachments/assets/9289d8d7-06e1-4d19-8b0e-e1059063ef35">
 
-   - Keterangan : Pada file ini saya membuat class atribut untuk menyimpan data static pada username dan email agar nanti dapat digunakan oleh semua halaman dengan data yang sama. Saya juga membuat class itemprofil yang berisikan subtittle, tittle dan icon. Fungsinya untuk mempermudah saya dalam melakukan modifikasi pada tampilan profil. Sehingga hanya mengganti beberapa nilai pada setiap komponennya sesuai dengan kebutuhan. 
+   - Keterangan : Pada file ini saya membuat class atribut untuk menyimpan data static pada username dan email agar nanti dapat digunakan oleh semua halaman dengan data yang sama. Saya juga membuat class itemprofil yang berisikan subtittle, tittle dan icon. Fungsinya untuk mempermudah saya dalam melakukan modifikasi pada tampilan profil. Sehingga hanya mengganti beberapa nilai pada setiap komponennya sesuai dengan kebutuhan.
+
+
+5. Library
+
+   <img width="356" alt="image" src="https://github.com/user-attachments/assets/137e14f1-c264-4452-9f9d-78b8bb427525">
+
+   - Keterangan : Saya juga menggunakan beberapa library di internet. Diantaranya yakni cool_alert dan fony_awewome_flutter. Untuk cool_alert sendiri saya gunakan sebagai template dari dialog alert, yang saya terapkan pada halaman daftar. Kemudian untuk font_aweswome_flutter saya gunakan untuk mengambil beberapa dokumentasi icon pada library tersebut yang terapkan pada halaman daftar dan masuk di bagian icon alternatifnya. Diantaranya yaitu icon facebook, icon google, icon twitter, dan icon apple.
+
 
 
       
