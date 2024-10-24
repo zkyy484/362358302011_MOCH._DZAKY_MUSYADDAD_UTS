@@ -34,7 +34,7 @@
 
    <img width="356" alt="image" src="https://github.com/user-attachments/assets/137e14f1-c264-4452-9f9d-78b8bb427525">
 
-   - Keterangan : Saya juga menggunakan beberapa library di internet. Diantaranya yakni cool_alert dan fony_awewome_flutter. Untuk cool_alert sendiri saya gunakan sebagai template dari dialog alert, yang saya terapkan pada halaman daftar. Kemudian untuk font_aweswome_flutter saya gunakan untuk mengambil beberapa dokumentasi icon pada library tersebut yang terapkan pada halaman daftar dan masuk di bagian icon alternatifnya. Diantaranya yaitu icon facebook, icon google, icon twitter, dan icon apple.
+   - Keterangan : Saya juga menggunakan beberapa library yang terdapatt di internet. Diantaranya yakni cool_alert dan font_awewome_flutter. Untuk cool_alert sendiri saya gunakan sebagai template dari dialog alert, yang saya terapkan pada halaman daftar. Kemudian untuk font_aweswome_flutter saya gunakan untuk mengambil beberapa dokumentasi icon pada library tersebut yang terapkan pada halaman daftar dan masuk di bagian icon alternatifnya. Diantaranya yaitu icon facebook, icon google, icon twitter, dan icon apple.
 
 
 
